@@ -43,3 +43,4 @@ The **average number of reviews** for best-selling books has shown a **significa
 
 - **Language**: Python 3.9+
 - **Analysis**: Pandas (for data manipulation and aggregation).
+- **Visualizations**: Matplotlib (for creating all charts and graphs).
